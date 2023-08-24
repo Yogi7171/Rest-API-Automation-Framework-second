@@ -10,7 +10,7 @@ public class abc {
 	 String str2 = "one";
 	 String str3= "two";
 	 String str4=str1.concat(str2);
-	 System.out.println(str4);
+	 //System.out.println(str4);
 	 int ab[]= {1,2,3,4,5};
 	 
 	
